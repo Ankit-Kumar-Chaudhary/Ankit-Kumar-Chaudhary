@@ -82,5 +82,5 @@ Other: Content Creator – Building personal brand on YouTube & Social Media
 
 <h3 align="center">Languages & Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Buildwith_Ankit&show_icons=true&locale=en&layout=compact" alt="Buildwith_Ankit" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-kumar-chaudhary&show_icons=true&locale=en&layout=compact" alt="ankit-kumar-chaudhary" />
 </p>
