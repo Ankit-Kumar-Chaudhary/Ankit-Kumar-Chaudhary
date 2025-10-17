@@ -51,35 +51,6 @@ Highly motivated BCA student with a strong foundation in Data Structures & Algor
 <h3 align="center">💼 Professional Skills</h3>
 <p align="center">Problem Solving | Analytical Thinking | Leadership | Teamwork | Communication | Quick Learning</p>
 
-<h3>🚀 Projects</h3>
-
-<b>1. Full-Stack Property/Rent Booking Site (Airbnb Inspired)</b> | <a href="#">Link</a> [SEP 2025 - OCT 2025]<br>
-- Built a platform with secure authentication, property listing, search, filter, and booking features.  
-- Integrated Razorpay payment gateway for online transactions.  
-- <i>Tech:</i> React.js, Tailwind CSS | Express.js, MongoDB  
-
-<b>2. Stock Dashboard Interface (Zerodha Inspired)</b> | <a href="#">Link</a> [NOV 2025 - DEC 2025]<br>
-- Developed a dashboard with real-time stock prices, portfolio tracking, interactive charts, and AI-powered recommendations.  
-- <i>Tech:</i> React.js, Vanilla CSS | Node.js, Express.js, MySQL  
-
-<b>3. Real-time Video Calling & Chat App (Academic)</b> | <a href="#">Link</a> [NOV 2025 - DEC 2025]<br>
-- Implemented multi-user video calling & chat using React.js, WebRTC, Socket.io, Firebase.  
-- Led backend APIs and real-time communication logic.  
-- Followed Agile methodology with sprint-based deliveries, peer reviews, debugging & testing.  
-
-<h3>🎓 Education</h3>
-<p>Bachelor of Computer Applications (BCA)<br>
-Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur | 2023 – 2026 | Percentage: 75%<br>
-Projects: React.js, MySQL & Node.js</p>
-
-<h3>🌐 Additional Information</h3>
-<p>
-Languages: Hindi, English <br>
-Certifications: Java Programming (Oracle) | Frontend Web Development (freeCodeCamp) <br>
-Open Source: Published 3+ full-stack projects on GitHub; Contributing to Open-Source <br>
-Other: Content Creator – Building personal brand on YouTube & Social Media
-</p>
-
 <h3 align="center">Languages & Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-kumar-chaudhary&show_icons=true&locale=en&layout=compact" alt="ankit-kumar-chaudhary" />
