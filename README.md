@@ -2,7 +2,8 @@
 <h3 align="center">🎓 BCA Student | 💻 Aspiring Software Developer | 🌱 MERN Stack, DSA & Python Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Buildwith_Ankit&label=Profile%20views&color=0e75b6&style=flat" alt="Buildwith_Ankit" />
+  <img src="https://komarev.com/ghpvc/?username=BuildwithAnkit&label=Profile%20views&color=0e75b6&style=flat" alt="BuildwithAnkit" />
+
 </p>
 
 <h3>📄 Summary</h3>
